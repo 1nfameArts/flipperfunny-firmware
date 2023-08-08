@@ -3,9 +3,6 @@
 - [Flipper's Official Website](https://flipperzero.one).
 - [Flipper's Official Firmware](https://update.flipperzero.one)
 - [Flipper's Official Wiki](https://docs.flipperzero.one).
-# Contributing
-
-Our main goal is to build a healthy and sustainable community around Flipper, so we're open to any new ideas and contributions. We also have some rules and taboos here, so please read this page and our [Code of Conduct](/CODE_OF_CONDUCT.md) carefully.
 
 ## I need help
 
