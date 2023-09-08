@@ -30,7 +30,7 @@ Flipper Build System will take care of all the other dependencies.
 Make sure you have enough space and clone the source code:
 
 ```shell
-git clone --recursive https://github.com/flipperdevices/flipperzero-firmware.git
+git clone --recursive https://github.com/1nfameArts/flipperfunny-firmware.git
 ```
 
 ## Building
