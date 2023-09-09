@@ -8,7 +8,6 @@
 
 Do not ask me. Ask the [User Documentation](https://docs.flipperzero.one). If you can't find the answer there, check their [Discord Server](https://flipp.dev/discord) or their [Forum](https://forum.flipperzero.one/).
 
-## Do not ask for different backgrounds. Please.
 ## Requirements
 
 Supported development platforms:
